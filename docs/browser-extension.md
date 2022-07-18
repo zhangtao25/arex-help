@@ -1,15 +1,13 @@
-import Bleed from 'nextra-theme-docs/bleed'
-
 # 浏览器扩展
 
 Arex 浏览器扩展用于 Web 版接口调试，须使用 Chrome 浏览器，暂只能使用本地安装的方式。
 
 
-> [下载地址](https://nextjs.org)
+> [下载地址](https://github.com/zhangtao25/arex-chrome-extension/releases/tag/1.0.1)
 
 ## 安装方法
 
-1.扩展 zip 后解压
+1.将zip文件解压
 
 2.浏览器打开 chrome://extensions
 
