@@ -2,15 +2,6 @@
 const withNextra = require('nextra')({
     theme: 'nextra-theme-docs',
     themeConfig: './theme.config.js',
-    basePath: "/arex-help", //node
-    assetPrefix: "/arex-help", //加前缀
-    publicRuntimeConfig:{
-        basePath: "/arex-help" //node
-    }
-    // unstable_staticImage: true,
-    // images: {
-    //     unoptimized:true
-    // },
-    // optional: add `unstable_staticImage: true` to enable Nextra's auto image import
+    basePath: "/arex-help" //node
 })
 module.exports = withNextra()
