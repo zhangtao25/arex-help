@@ -3,7 +3,9 @@ const withNextra = require('nextra')({
     theme: 'nextra-theme-docs',
     themeConfig: './theme.config.js',
     assetPrefix: "/arex-help", //加前缀
-    basePath: "/arex-help" //node
+    publicRuntimeConfig:{
+        basePath: "/arex-help" //node
+    }
     // unstable_staticImage: true,
     // images: {
     //     unoptimized:true
