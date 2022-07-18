@@ -2,6 +2,7 @@
 const withNextra = require('nextra')({
     theme: 'nextra-theme-docs',
     themeConfig: './theme.config.js',
+    basePath: "/arex-help", //node
     assetPrefix: "/arex-help", //加前缀
     publicRuntimeConfig:{
         basePath: "/arex-help" //node
