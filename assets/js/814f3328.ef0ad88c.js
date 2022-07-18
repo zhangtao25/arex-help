@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcanyon_io=self.webpackChunkcanyon_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/arex-help/blog/first-blog-post"}]}')}}]);
