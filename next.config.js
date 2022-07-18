@@ -2,6 +2,7 @@
 const withNextra = require('nextra')({
     theme: 'nextra-theme-docs',
     themeConfig: './theme.config.js',
+    basePath: "/arex-help" //node
     // unstable_staticImage: true,
     // images: {
     //     unoptimized:true
